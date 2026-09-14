@@ -45,4 +45,4 @@ flowchart LR
 
 更多说明：[来源与范围](docs/PROVENANCE.md) · [依赖和运行边界](docs/DEPENDENCIES.md) · [本次静态检查](docs/VERIFICATION.md)。
 
-本仓库目前用于私有审阅。公开披露范围尚待确认，未附加开源许可证。
+本仓库按作者对本次选编范围的确认，用于公开技术展示。保留原始来源与归属说明，未额外附加开源许可证。
